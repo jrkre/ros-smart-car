@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "arduino/smart-car-controller/smart-car-controller.ino",
+    "port": "/dev/tty.usbmodem00001"
+}
